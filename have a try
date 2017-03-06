@@ -1,4 +1,9 @@
 dev file
-add sth new
+
 add more
+<<<<<<< Updated upstream
 add more 2
+=======
+
+add sth new and delete the old
+>>>>>>> Stashed changes
